@@ -4,8 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".BodyPartFragment">
-    <ImageView
-        android:id="@+id/imagenFragment"
+    <GridLayout
+        android:id="@+id/gridFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
